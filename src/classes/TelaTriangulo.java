@@ -17,6 +17,7 @@ public class TelaTriangulo extends javax.swing.JFrame {
     public TelaTriangulo() {
         initComponents();
         panResposta.setVisible(false);
+        //novo
     }
 
     /**
